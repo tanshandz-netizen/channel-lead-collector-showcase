@@ -1,5 +1,7 @@
 # Channel Lead Collector
 
+**English** | [简体中文](README.zh-CN.md)
+
 ### Automated Tender Intelligence & Channel Lead Management
 
 Channel Lead Collector identifies potential channel partners from public tender notices by extracting award-related company information, collecting new projects incrementally, and structuring the results for Excel export and Feishu Bitable synchronization.

@@ -1,0 +1,33 @@
+# Documentation-only allowlist. Review this policy before adding public media.
+*
+!*/
+!.gitignore
+!*.md
+
+# Local credentials, profiles, operational data and machine artifacts
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.part
+*.xlsx
+*.xls
+*.csv
+*.jsonl
+processed_projects.json
+.DS_Store
+__pycache__/
+*.pyc
+runtime/
+.runtime/
+.venv/
+playwright-browsers/
+.install/
+05_浏览器环境/
+05_输出结果/
+node_modules/
+.idea/
+.vscode/
